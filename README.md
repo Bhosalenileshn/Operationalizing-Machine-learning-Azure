@@ -10,7 +10,7 @@ This is the second Project for *Machine Learning with Microsoft Azure*. In this 
  * Consuming the Endpoint using JSON test file.
    
 ## Architectural Diagram  
-![Architectural Diagram](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/Architectural%20_Diagram.png)  
+![Architectural Diagram](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/ArchitectureDiagram2.png)  
 
 As seen from the above Image we take the Following steps.
 
@@ -79,7 +79,10 @@ We create the pipeline for the entire process in jupyter notebook.
  * RunWidget Details.    
    ![Runwidget](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/JN_Pipeline_Runwidget.png)    
    
-   
+
+## Screencast YouTube Link
+[Screencast Link](https://youtu.be/PBOQOW3wr7k)  
+
 ### Deleting the Compute Cluster    
 ![Delete Cmpute](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/delete_compute_cluster.png)    
   
