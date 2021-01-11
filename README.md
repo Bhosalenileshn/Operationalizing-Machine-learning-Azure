@@ -80,11 +80,17 @@ We create the pipeline for the entire process in jupyter notebook.
    ![Runwidget](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/JN_Pipeline_Runwidget.png)    
    
 
+### Deleting the Compute Cluster    
+![Delete Cmpute](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/delete_compute_cluster.png)    
+
 ## Screencast YouTube Link
 [Screencast Link](https://youtu.be/PBOQOW3wr7k)  
 
-### Deleting the Compute Cluster    
-![Delete Cmpute](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/delete_compute_cluster.png)    
+## Future Work    
+* We can use different selected algorithms and try to find the best parameters using HyperDrive.  
+* We can try and use Deep Learning to check if it increases the Performance.  
+* We can consult to the person with the domain knowledge to decide which colums are irrelevant and which are relevant. We can also gather data from different       banks and check whether the data is same and if different hot it is affecting the outcome.   
+
   
   
 
