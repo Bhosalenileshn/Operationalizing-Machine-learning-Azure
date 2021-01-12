@@ -78,7 +78,15 @@ We create the pipeline for the entire process in jupyter notebook.
   
  * RunWidget Details.    
    ![Runwidget](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/JN_Pipeline_Runwidget.png)    
+    
+ * Screenshot of the Pipeline section of Azure ML studio showing that the pipeline has been created.  
    
+   ![Pipeline Created](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/JN_Pipeline_Created.png)  
+     
+ * Screenshot of the deployed pipeline endpoint showing as Active from the ML Studio.  
+   
+   ![Pipeline Active](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/JN_Pipeline_Run_Active.png)  
+     
 
 ### Deleting the Compute Cluster    
 ![Delete Cmpute](https://github.com/Bhosalenileshn/Operationalizing-Machine-learning-Azure/blob/main/screenshots/delete_compute_cluster.png)    
